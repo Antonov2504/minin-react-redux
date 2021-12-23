@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Antonov2504/minin-react-redux/static/js/main.021f93e9.chunk.js",
+    "main.js.map": "/Antonov2504/minin-react-redux/static/js/main.021f93e9.chunk.js.map",
+    "runtime-main.js": "/Antonov2504/minin-react-redux/static/js/runtime-main.2a010761.js",
+    "runtime-main.js.map": "/Antonov2504/minin-react-redux/static/js/runtime-main.2a010761.js.map",
+    "static/js/2.261a4c48.chunk.js": "/Antonov2504/minin-react-redux/static/js/2.261a4c48.chunk.js",
+    "static/js/2.261a4c48.chunk.js.map": "/Antonov2504/minin-react-redux/static/js/2.261a4c48.chunk.js.map",
+    "static/js/3.b9b04c1a.chunk.js": "/Antonov2504/minin-react-redux/static/js/3.b9b04c1a.chunk.js",
+    "static/js/3.b9b04c1a.chunk.js.map": "/Antonov2504/minin-react-redux/static/js/3.b9b04c1a.chunk.js.map",
+    "index.html": "/Antonov2504/minin-react-redux/index.html",
+    "static/js/2.261a4c48.chunk.js.LICENSE.txt": "/Antonov2504/minin-react-redux/static/js/2.261a4c48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a010761.js",
+    "static/js/2.261a4c48.chunk.js",
+    "static/js/main.021f93e9.chunk.js"
+  ]
+}
